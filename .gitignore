@@ -1,0 +1,12 @@
+bin/
+obj/
+models/
+.vs/
+*.csproj.user
+
+# Local preview and test exports
+/grok-dense-auto-preview.png
+/grok-dense-cleaned.png
+/grok-dense-cleaned-updated.png
+/grok-image-cleaned.png
+/s01-scene-1c-cleaned.png
